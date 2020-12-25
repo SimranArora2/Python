@@ -1,0 +1,5 @@
+string=input("find the substring:sub , within the slice range of start and end")
+sub=input("sub")
+start=input("start")
+end=input("end")
+print(string.find(sub,2,7))
